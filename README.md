@@ -8,9 +8,9 @@
 
 ## Skills
 > - Data Wrangling
-- Exploratory Data Analysis
-- Data Visualisation
-- Communication and presentation of findings
+> - Exploratory Data Analysis
+> - Data Visualisation
+> - Communication and presentation of findings
 
 ## Summary of Findings
 
