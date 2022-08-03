@@ -6,6 +6,11 @@
 
 > Ford GoBike System dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The data set was downloaded on the Udacity website through this link [here](https://video.udacitydata.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv). The dataset contains 16 columns (duration_sec, start_time, end_time, start_station_id, start_station_name, start_station_latitude, start_station_longitude, end_station_id, end_station_name, end_station_latitude, end_station_longitude, bike_id, user_type, member_birth_year, member_gender, bike_share_for_all_trip) and 183412 rows. The dataset has some quality issues which included wrong data types, missing values. The datatypes were changed, missing values were dropped, some extra columns were also extracted from the original data to help with exploration (age, duration_min, start_weekday, end_weekday, start_hour, end_hour). The final cleaned dataset have 29 columns and 174952
 
+## Skills
+> - Data Wrangling
+- Exploratory Data Analysis
+- Data Visualisation
+- Communication and presentation of findings
 
 ## Summary of Findings
 
